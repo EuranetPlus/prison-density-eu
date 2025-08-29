@@ -1,13 +1,12 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Kemm huma iffullati l-ħabsijiet tal-UE?",
+  "subtitle": "Bħala medja, id-densità tal-ħabsijiet fl-UE27 mill-2024 kienet ta’ 96.7 priġunier għal kull 100 post.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Ma ngħatat l-ebda dejta għall-Awstrija",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "Università ta' Lausanne",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
+  "customUnitLabel": "Densità tal-ħabsijiet għal kull 100 post",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
