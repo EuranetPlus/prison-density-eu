@@ -1,13 +1,12 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Jak zatłoczone są więzienia w UE?",
+  "subtitle": "Średnia gęstość zaludnienia więzień w UE-27 w 2024 r. wynosiła 96,7 więźniów na 100 miejsc.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Brak danych dla Austrii",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Uniwersytet w Lozannie",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
+  "customUnitLabel": "Gęstość więzień na 100 miejsc",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
