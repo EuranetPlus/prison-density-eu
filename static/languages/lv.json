@@ -1,13 +1,12 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Cik pārpildīti ir ES cietumi?",
+  "subtitle": "Vidējais cietumu blīvums ES27 valstīs 2024. gadā bija 96,7 ieslodzītie uz 100 vietām.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Par Austriju dati nav sniegti.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Lozannas Universitāte",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
+  "customUnitLabel": "Cietumu blīvums uz 100 vietām",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
