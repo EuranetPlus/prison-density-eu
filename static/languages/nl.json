@@ -1,13 +1,12 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Hoe vol zijn de gevangenissen in de EU?",
+  "subtitle": "De gemiddelde gevangenisdichtheid in de EU27 bedroeg in 2024 96,7 gedetineerden per 100 plaatsen.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "Geen gegevens verstrekt voor Oostenrijk",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Universiteit van Lausanne",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
+  "customUnitLabel": "Gevangenisdichtheid per 100 plaatsen",
   "tooltipExtraInfoLabel": "Klik hier"
 }
