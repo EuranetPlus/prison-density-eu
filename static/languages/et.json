@@ -1,13 +1,12 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Kui rahvarohked on EL-i vanglad?",
+  "subtitle": "2024. aasta seisuga oli EL 27 riikide vanglate keskmine tihedus 96,7 vangi 100 koha kohta.",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
+  "textNote": "Austria kohta andmeid ei ole esitatud.",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "Lausanne'i Ülikool",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
-  "legend1": "Andmed puuduvad",
-  "tooltipExtraInfoLabel": "Klõpsake siin"
+  "legend1": "Andmed pole saadaval",
+  "customUnitLabel": "Vanglate tihedus 100 koha kohta",
+  "tooltipExtraInfoLabel": "Kliki siia"
 }
