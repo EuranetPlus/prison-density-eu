@@ -1,13 +1,12 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "Kako natrpani so zapori v EU?",
+  "subtitle": "Povprečna gostota zapornikov v EU-27 je bila leta 2024 96,7 zapornika na 100 mest.",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "Za Avstrijo ni podatkov.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
+  "textSource": "Univerza v Lausanni",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
-  "legend1": "Ni podatkov",
+  "legend1": "Ni na voljo podatkov",
+  "customUnitLabel": "Gostota zaporov na 100 mest",
   "tooltipExtraInfoLabel": "Kliknite tukaj"
 }
