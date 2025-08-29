@@ -1,13 +1,12 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Wie überfüllt sind die Gefängnisse in der EU?",
+  "subtitle": "Im Jahr 2024 lag die durchschnittliche Gefängnisdichte in der EU-27 bei 96,7 Insassen pro 100 Plätze.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Für Österreich liegen keine Daten vor",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
+  "textSource": "Universität Lausanne",
   "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
   "legend1": "Keine Daten verfügbar",
+  "customUnitLabel": "Gefängnisdichte pro 100 Plätze",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
